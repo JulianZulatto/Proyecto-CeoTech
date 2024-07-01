@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.navbar {
+  padding: 0; }
+
+main {
+  min-height: 80%; }
+
+h1 {
+  text-align: center;
+  background-color: #004767;
+  color: antiquewhite;
+  margin: 0; }
+
+.imgindex img {
+  width: 100vw;
+  height: 500px; }
