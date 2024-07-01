@@ -7,9 +7,18 @@ h1{
     color: antiquewhite;
     margin: 0;
 }
+
+ul {
+    list-style-type: none;
+}
 .imgindex {
     img{
         width: 100vw;
         height: 500px;
     }
+}
+.buscador1{
+    display: flex;
+    justify-content: center;
+    
 }

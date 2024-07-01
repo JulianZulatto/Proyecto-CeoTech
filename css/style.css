@@ -2,6 +2,10 @@
   margin: 0;
   padding: 0; }
 
+.container-fluid {
+  padding: 0;
+  background-color: #004767; }
+
 .navbar {
   padding: 0; }
 
@@ -14,6 +18,13 @@ h1 {
   color: antiquewhite;
   margin: 0; }
 
+ul {
+  list-style-type: none; }
+
 .imgindex img {
   width: 100vw;
   height: 500px; }
+
+.buscador1 {
+  display: flex;
+  justify-content: center; }
