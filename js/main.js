@@ -1,6 +1,6 @@
 
 
-
+// Funcionalidad para la busqueda 
 document.getElementById('buscador').addEventListener('input', function() {
     let input = this.value.toLowerCase();
     let videos = document.querySelectorAll('#listaVideos li');
@@ -14,3 +14,6 @@ document.getElementById('buscador').addEventListener('input', function() {
       }
     });
   });
+
+
+
