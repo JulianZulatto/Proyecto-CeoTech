@@ -1,4 +1,4 @@
-
+let usuarioLogueado = false;
 
 function registrarUsuario() {
     let usuario = document.getElementById('usuario').value;
@@ -9,6 +9,8 @@ function registrarUsuario() {
     Swal.fire("Se a registrado con exito!");
 }
 
+
+
 function login() {
     let usuario = document.getElementById('usuario_login').value;
     let contraseña = document.getElementById('contraseña_login').value;
@@ -18,8 +20,10 @@ function login() {
 
     if (usuario_encontrado) {
         Swal.fire("Se a logueado con exito!");
+        usuarioLogueado = true;
     } else {
         Swal.fire("Usuario o contraseña equivocada, intentelo nuevamente!");
+        usuarioLogueado = false;
     }
 }
 
@@ -30,3 +34,12 @@ function crearUsuario(usuario, contraseña) {
 
     localStorage.setItem('usuarios', JSON.stringify(usuarios));
 }
+
+function logout() {
+    usuarioLogueado = false;
+    Swal.fire("Cerro la sesion con exito!");
+}
+
+document.getElementById('cerrar_sesion').addEventListener('click', function() {
+    logout();
+});
