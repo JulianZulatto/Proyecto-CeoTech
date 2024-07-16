@@ -34,3 +34,21 @@ ul {
     width: 300px;
     height: 50px;
     text-align: center; }
+
+.login {
+  display: flex;
+  flex-direction: column;
+  text-align: center; }
+  .login form {
+    background-color: #55c5f8; }
+    .login form h4 {
+      text-align: center; }
+    .login form label {
+      padding: 5px;
+      margin-top: 10px; }
+    .login form input {
+      text-align: center; }
+    .login form button {
+      align-items: center;
+      padding: 5px;
+      margin-top: 20px; }

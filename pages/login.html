@@ -7,7 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/style.css">
-    <title>Servicios y Contacto</title>
+    <title>Login</title>
 </head>
 
 <body>
@@ -49,42 +49,28 @@
 
     </header>
     <main>
-        <div class="buscador1">
-            <input type="text" id="buscador" placeholder="Buscar videos">
+        <div class="login">
+            <form class="crear_cuenta">
+                <h4>Crear Cuenta</h4>
+                <label for="usuario">Usuario:</label>
+                <input type="text" id="usuario" required><br>
+                <label for="contraseña">Contraseña:</label>
+                <input type="password" id="contraseña" required><br>
+                <button type="button" onclick="registrarUsuario()">Registro</button>
+            </form>
+
+            <form class="loguearse">
+                <h4>Loguearse</h4>
+                <label for="usuario_login">Usuario:</label>
+                <input type="text" id="usuario_login" required><br>
+                <label for="contraseña_login">Contraseña:</label>
+                <input type="password" id="contraseña_login" required><br>
+                <button type="button" onclick="login()">Logear</button>
+            </form>
         </div>
-        <div class="tutoriales">
-            <ul id="listaVideos">
-                <li>
-                    <h5>Como cargar un cliente desde Afip</h5>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_l3ClOToeys?si=kKp73Dh4lHd9CZj9"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </li>
-                <li>
-                    <h5>Como cargar un cliente desde el menu principal</h5>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/2eYLta1gh_I?si=EVsi_dglgOrtuvpk"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </li>
-                <li>
-                    <h5>Como cargar un cliente desde el facturador</h5>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_SNlcxdzIGA?si=hqqwHFDCtnfFA3ab"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </li>
-                <li>
-                    <h5>Como cargar un Proveedor</h5>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/tCbxIQzxxwE?si=ptIHCZD4kBFDBgXe"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </li>
-            </ul>
-        </div>
+
     </main>
+
     <footer>
 
     </footer>
@@ -92,7 +78,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
-    <script src="../js/tutoriales.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="../js/login.js"></script>
 </body>
 
 </html>

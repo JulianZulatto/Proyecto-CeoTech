@@ -1,7 +1,8 @@
-main{
+main {
     min-height: 80%;
 }
-h1{
+
+h1 {
     text-align: center;
     background-color: #004767;
     color: antiquewhite;
@@ -11,20 +12,56 @@ h1{
 ul {
     list-style-type: none;
 }
+
 .imgindex {
-    img{
+    img {
         width: 100vw;
         height: 500px;
     }
 }
-.buscador1{
+
+.buscador1 {
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    input{
+
+    input {
         width: 300px;
         height: 50px;
         text-align: center;
     }
 }
+
+.login {
+    display: flex;
+
+    flex-direction: column;
+    text-align: center;
+
+    form {
+        background-color: #55c5f8;
+
+
+        h4 {
+            text-align: center;
+        }
+
+        label {
+            padding: 5px;
+            margin-top: 10px;
+        }
+
+        input {
+            text-align: center;
+        }
+
+        button {
+            align-items: center;
+            padding: 5px;
+            margin-top: 20px;
+            
+        }
+    }
+}
+
