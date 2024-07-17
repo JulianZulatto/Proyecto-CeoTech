@@ -1,6 +1,6 @@
 
 // Funcionalidad para la busqueda 
-document.getElementById('buscador').addEventListener('input', function () {
+document.getElementById('buscador')?.addEventListener('input', function () {
   if (estoyLogueado()) {
     let input = this.value.toLowerCase();
     let videos = document.querySelectorAll('#listaVideos li');
