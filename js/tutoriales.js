@@ -1,8 +1,7 @@
 
-
 // Funcionalidad para la busqueda 
 document.getElementById('buscador').addEventListener('input', function () {
-  if (usuarioLogueado) {
+  if (estoyLogueado = true) {
     let input = this.value.toLowerCase();
     let videos = document.querySelectorAll('#listaVideos li');
 
