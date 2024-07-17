@@ -28,7 +28,6 @@ ul {
 .buscador1 {
   display: flex;
   justify-content: center;
-  flex-direction: column;
   align-items: center; }
   .buscador1 input {
     width: 300px;

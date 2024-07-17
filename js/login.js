@@ -32,3 +32,10 @@ function crearUsuario(usuario, contraseña) {
     localStorage.setItem('usuarios', JSON.stringify(usuarios));
 }
 
+function cerrarSesion() {
+    localStorage.removeItem('usuarios');
+}
+
+document.getElementById('cerrar_sesion').addEventListener('click', function() {
+    cerrarSesion();
+});
