@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "link": "https://www.youtube.com/embed/_l3ClOToeys?si=kKp73Dh4lHd9CZj9",
+      "titulo": "Como cargar un cliente desde Afip"
+    },
+    {
+      "id": 2,
+      "link": "https://www.youtube.com/embed/2eYLta1gh_I?si=EVsi_dglgOrtuvpk",
+      "titulo": "Como cargar un cliente desde el menu principal"
+    },
+    {
+      "id": 3,
+      "link": "https://www.youtube.com/embed/_SNlcxdzIGA?si=hqqwHFDCtnfFA3ab",
+      "titulo": "Como cargar un cliente desde el facturador"
+    },
+    {
+      "id": 4,
+      "link": "https://www.youtube.com/embed/tCbxIQzxxwE?si=ptIHCZD4kBFDBgXe",
+      "titulo": "Como cargar un Proveedor"
+    }
+  ]
