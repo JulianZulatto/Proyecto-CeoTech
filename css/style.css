@@ -62,3 +62,46 @@ ul {
     border: 1px solid #ccc;
     border-radius: 5px;
     overflow: hidden; }
+
+.servicios {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  grid-template-rows: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-areas: "id-1 id-2" "id-3 id-4" "id-5 id-6" "id-7 id-8" "id-9 id-10";
+  justify-items: center;
+  align-items: start;
+  margin: 0;
+  padding: 0; }
+
+.id-1 {
+  grid-area: id-1; }
+
+.id-2 {
+  grid-area: id-2; }
+
+.id-3 {
+  grid-area: id-3; }
+
+.id-4 {
+  grid-area: id-4; }
+
+.id-5 {
+  grid-area: id-5; }
+
+.id-6 {
+  grid-area: id-6; }
+
+.id-7 {
+  grid-area: id-7; }
+
+.id-8 {
+  grid-area: id-8; }
+
+.id-9 {
+  grid-area: id-9; }
+
+.id-10 {
+  grid-area: id-10; }
+
+#id-1 {
+  width: 400px; }
