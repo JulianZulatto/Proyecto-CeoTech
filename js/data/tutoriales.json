@@ -18,5 +18,175 @@
       "id": 4,
       "link": "https://www.youtube.com/embed/tCbxIQzxxwE?si=ptIHCZD4kBFDBgXe",
       "titulo": "Como cargar un Proveedor"
+    },
+    {
+      "id": 5,
+      "link": "https://www.youtube.com/embed/cGXdqUwVzpk?si=nEQusM_aD5pblqgW" ,
+      "titulo": "Chequear padron de clientes con AFIP"
+    },
+    {
+      "id": 6,
+      "link": "https://www.youtube.com/embed/F0R65rA-iEc?si=5MPhP_95Cdg1NOhF" ,
+      "titulo": "Como editar el email de un cliente o sus datos"
+    },
+    {
+      "id": 7,
+      "link": "https://www.youtube.com/embed/6T_SQ9HlL8A?si=6NjPFcUi1cHutl_v" ,
+      "titulo": "Como dar de baja o deshabilitar un cliente"
+    },
+    {
+      "id": 8,
+      "link": "https://www.youtube.com/embed/HUwiVwoG2gI?si=EA97Q6bsS9UanMoY" ,
+      "titulo": "Como cargar secciones, lineas, rubros, marcas, modelos y proveedores"
+    },
+    {
+      "id": 9,
+      "link": "https://www.youtube.com/embed/kN9NnBLqlHE?si=F0yeqACfHLGXVy6T" ,
+      "titulo": "Como editar los datos de un articulo"
+    },
+    {
+      "id": 10,
+      "link": "https://www.youtube.com/embed/im-K9-JufaQ?si=YSPUnmetFoJpTn4w" ,
+      "titulo": "Como dar de baja y/o alta articulos"
+    },
+    {
+      "id": 11,
+      "link": "https://www.youtube.com/embed/j3uJXaMLRVI?si=eSuusoJVMRu_8uuk" ,
+      "titulo": "Configurar un articulo para ser exportado a las balanzas"
+    },
+    {
+      "id": 12,
+      "link": "https://www.youtube.com/embed/aRVzebnhsAo?si=rT3mGsrkVyQBgauY" ,
+      "titulo": "Como cargar un articulo con sus atributos"
+    },
+    {
+      "id": 13,
+      "link": "https://www.youtube.com/embed/bb-6gsaPgzY?si=C2S_IzW2NOZYepE7" ,
+      "titulo": "Como actualziar precios desde la grilla"
+    },
+    {
+      "id": 14,
+      "link": "https://www.youtube.com/embed/cVlCfmI3eSs?si=NnqTIrDaaWZ15eXG" ,
+      "titulo": "Como actualizar precios de forma masiva"
+    },
+    {
+      "id": 15,
+      "link": "https://www.youtube.com/embed/31GYYZkVKVo?si=LvYdXIh_fzeZSD2r" ,
+      "titulo": "Como actualizar el precio de un articulo buscando uno por uno"
+    },
+    {
+      "id": 16,
+      "link": "https://www.youtube.com/embed/v-idd7jKipg?si=z--x5kU68uxrxry-" ,
+      "titulo": "Como actualizar los precios de un articulo que esta en varias listas de precios"
+    },
+    {
+      "id": 17,
+      "link": "https://www.youtube.com/embed/CDzWqRrnIKY?si=WQcmNeQNXh7XikL9" ,
+      "titulo": "Como actualizar precios desde la lista de excel del proveedor"
+    },
+    {
+      "id": 18,
+      "link": "https://www.youtube.com/embed/hBjzsJcVMPw?si=rEXj0J2WY2yx2z4L" ,
+      "titulo": "Como actualizar precios desde la grilla 2"
+    },
+    {
+      "id": 19,
+      "link": "https://www.youtube.com/embed/wATrT3ASLRw?si=FlYvD78Qi5hsyWC4" ,
+      "titulo": "Como listar un resumen de cuenta corriente"
+    },
+    {
+      "id": 20,
+      "link": "https://www.youtube.com/embed/_8TmhNo_xPs?si=2iE--1pPz8ua7E6g" ,
+      "titulo": "Como obtener listados de saldos de cuenta corriente"
+    },
+    {
+      "id": 21,
+      "link": "https://www.youtube.com/embed/9ET3LqjBR9U?si=ecb3_YI_H1rXj8G0" ,
+      "titulo": "Como hacer un recibo desde la cuenta corriente"
+    },
+    {
+      "id": 22,
+      "link": "https://www.youtube.com/embed/7CTmFzXyUcI?si=D76ZP2JLZDH2Z6Qp" ,
+      "titulo": "Como hacer un recibo SIN aplicacion de comprobantes"
+    },
+    {
+      "id": 23,
+      "link": "https://www.youtube.com/embed/SwnmfYU4SjA?si=uAJaQG6fFphqhy-g" ,
+      "titulo": "Como hacer un recibo CON aplicacion de comprobantes"
+    },
+    {
+      "id": 24,
+      "link": "https://www.youtube.com/embed/EL1H6ltpbHw?si=4z_hP6yCvYiFUEvb" ,
+      "titulo": "Como hacer un adelanto de dinero a la cuenta corriente"
+    },
+    {
+      "id": 25,
+      "link": "https://www.youtube.com/embed/VHZOth7y9Lw?si=neqBt8ysRCDgrTHB" ,
+      "titulo": "Como cargar saldos iniciales a varios clientes en un solo paso"
+    },
+    {
+      "id": 26,
+      "link": "https://www.youtube.com/embed/72Rh19maI5U?si=ex5pK9SLa2nWmxRA" ,
+      "titulo": "Cómo hacer una Orden de Pago SIN Aplicación de Comprobantes"
+    },
+    {
+      "id": 27,
+      "link": "https://www.youtube.com/embed/aGzmhbcfK90?si=wIqis1-cwaOtcbEA" ,
+      "titulo": "Cómo hacer una Orden de Pago CON Aplicación de Comprobantes I"
+    },
+    {
+      "id": 28,
+      "link": "https://www.youtube.com/embed/Zp5t3enje48?si=KLE7BO58wyEy8o0J" ,
+      "titulo": "Cómo hacer una Orden de Pago CON Aplicación de Comprobantes II"
+    },
+    {
+      "id": 29,
+      "link": "https://www.youtube.com/embed/aTlocp2UnkU?si=E0nOjRnuFQymhC1d" ,
+      "titulo": "Cómo hacer una Orden de Pago aplicando Retencines"
+    },
+    {
+      "id": 30,
+      "link": "https://www.youtube.com/embed/GfBB-46-XWU?si=PpILjdwjKc4uK4Ze" ,
+      "titulo": "Cómo hacer el Arqueo o Cierre de Caja"
+    },
+    {
+      "id": 31,
+      "link": "https://bbvsoftware.com.ar/videoTut/DOC/Arqueo%20de%20Caja.pdf" ,
+      "titulo": "PDF Cómo hacer el Arqueo de Caja"
+    },
+    {
+      "id": 32,
+      "link": "https://www.youtube.com/embed/76FuRZKBDz4?si=ZQq95mRvA0lBnomd" ,
+      "titulo": "Conceptos básicos para usar el Facturador"
+    },
+    {
+      "id": 33,
+      "link": "https://www.youtube.com/embed/VvuVCOHBPBQ?si=etfX9i-35fO8wjRw" ,
+      "titulo": "Cómo Facturar un Presupuesto"
+    },
+    {
+      "id": 34,
+      "link": "https://www.youtube.com/embed/77ZQf3nh990?si=PLNw3gF04LyrOag9" ,
+      "titulo": "Qué son las Facturas con Prefijo 9999 y qué hacer con ellas"
+    },
+    {
+      "id": 35,
+      "link": "https://www.youtube.com/embed/Ub6luWdFV5U?si=5-Coi2FhzKhriO3C" ,
+      "titulo": "Cómo Facturar sin tener artículos cargados"
+    },
+    {
+      "id": 36,
+      "link": "https://www.youtube.com/embed/YytfXK1ttv0?si=jjoTUjvE3hYiqmXt" ,
+      "titulo": "Cómo asignar Obras a diferentes Comprobantes"
+    },
+    {
+      "id": 37,
+      "link": "https://www.youtube.com/embed/hfOfBIGyfko?si=VeuVPpTz-rGBDWtq" ,
+      "titulo": "Cómo Presupuestar con Diferentes Tarjetas y Planes"
+    },
+    {
+      "id": 38,
+      "link": "https://www.youtube.com/embed/xnhdma2M-0w?si=z6rJPLYaGIl2BpTN" ,
+      "titulo": "Cómo configurar un Artículo para usar la Unidad Alternativa"
     }
   ]
